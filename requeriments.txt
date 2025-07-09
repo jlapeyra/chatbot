@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain_ollama
+huggingface_hub
+faiss-cpu
+tqdm
