@@ -1,0 +1,12 @@
+Pregunta: Quants crèdits té PRO1?
+state: info_assig
+Resposta:
+La assignatura "Programació I" té 7.5 crèdits.
+Pregunta: Quin dia m'he de matricular?
+state: matricula
+Resposta:
+Per matricular-te, es basa en el grau que estàs estudiant i la fase en què estàs: Grau en Enginyeria Informàtica (GEI). Si ets un estudiant del GEI en fase inicial amb 0 ECTS superats i matriculat a F, FM, IC, PRO1, el dia per matricular-te és el 24 de juliol de 2025.
+
+A partir del 4 de juliol, es podrà consultar l'e-secretaria la data i hora específica que t'ha sigut assignada per a la matrícula. Si no pots fer-ho en el dia i hora assignat, caldrà sol·licitar a l’eSecretaria una nova data en què pugs matricular-te. L'hora de matrícula es calcula a partir de les dades disponibles el dia abans del càlcul i no tenen en compte les assignatures no qualificades en aquell moment.
+
+Pots trobar més informació sobre com es calcula l'ordre de matrícula a la pestanya "Normativa Associada".

@@ -1,0 +1,1426 @@
+[
+  {
+    "titulacio": "GEI",
+    "sigles": "F",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/F",
+    "nom": "Física",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "FM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/FM",
+    "nom": "Fonaments Matemàtics",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "IC",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/IC",
+    "nom": "Introducció als Computadors",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PRO1",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PRO1",
+    "nom": "Programació I",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà, Anglès (Q1)"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "EC",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/EC",
+    "nom": "Estructura de Computadors",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "M1",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/M1",
+    "nom": "Matemàtiques I",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà, Anglès (Q2)"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "M2",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/M2",
+    "nom": "Matemàtiques II",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà, Anglès"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PRO2",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PRO2",
+    "nom": "Programació II",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "BD",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/BD",
+    "nom": "Bases de Dades",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CI",
+    "nom": "Interfícies de Computadors",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "EDA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/EDA",
+    "nom": "Estructures de Dades i Algorismes",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà, Anglès (Q1)"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PE",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PE",
+    "nom": "Probabilitat i Estadística",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà, Anglès (Q1)"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "SO",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/SO",
+    "nom": "Sistemes Operatius",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà, Anglès (Q1)"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "AC",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/AC",
+    "nom": "Arquitectura de Computadors",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "EEE",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/EEE",
+    "nom": "Empresa i Entorn Econòmic",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "IDI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/IDI",
+    "nom": "Interacció i Disseny d'Interfícies",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "IES",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/IES",
+    "nom": "Introducció a l'Enginyeria del Software",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "XC",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/XC",
+    "nom": "Xarxes de Computadors",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Anglès (Q2)"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PAR",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PAR",
+    "nom": "Paral·lelisme",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà, Anglès (Q1)"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PROP",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PROP",
+    "nom": "Projectes de Programació",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "A",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/A",
+    "nom": "Algorísmia",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "G",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/G",
+    "nom": "Gràfics",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "IA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/IA",
+    "nom": "Intel·ligència Artificial",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "LI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/LI",
+    "nom": "Lògica a la Informàtica",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "LP",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/LP",
+    "nom": "Llenguatges de Programació",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "TC",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/TC",
+    "nom": "Teoria de la Computació",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "AA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/AA",
+    "nom": "Ampliació d'Algorísmia",
+    "curs_obert": "Q2",
+    "idioma": "Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "APA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/APA",
+    "nom": "Aprenentatge Automàtic",
+    "curs_obert": "Q1",
+    "idioma": "Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CAIM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CAIM",
+    "nom": "Cerca i Anàlisi d'Informació Massiva",
+    "curs_obert": "Q1",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CL",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CL",
+    "nom": "Compiladors",
+    "curs_obert": "Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CN",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CN",
+    "nom": "Computació Numèrica",
+    "curs_obert": "Q2",
+    "idioma": "Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "IO",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/IO",
+    "nom": "Investigació Operativa",
+    "curs_obert": "Q1",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "SID",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/SID",
+    "nom": "Sistemes Intel·ligents Distribuïts",
+    "curs_obert": "Q2",
+    "idioma": "Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "AC2",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/AC2",
+    "nom": "Arquitectura de Computadors II",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "DSBM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/DSBM",
+    "nom": "Disseny de Sistemes Basats en Microcomputadors",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "MP",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/MP",
+    "nom": "Multiprocessadors",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PEC",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PEC",
+    "nom": "Projecte d'Enginyeria de Computadors",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "SO2",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/SO2",
+    "nom": "Sistemes Operatius II",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "XC2",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/XC2",
+    "nom": "Xarxes de Computadors II",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CASO",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CASO",
+    "nom": "Conceptes Avançats de Sistemes Operatius",
+    "curs_obert": "Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CPD",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CPD",
+    "nom": "Centres de Processament de Dades",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PAP",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PAP",
+    "nom": "Programació i Arquitectures Paral·leles",
+    "curs_obert": "Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PCA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PCA",
+    "nom": "Programació Conscient de l'Arquitectura",
+    "curs_obert": "Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PDS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PDS",
+    "nom": "Processament Digital del Senyal",
+    "curs_obert": "Q1",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "STR",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/STR",
+    "nom": "Sistemes de Temps Real",
+    "curs_obert": "Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "VLSI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/VLSI",
+    "nom": "VLSI",
+    "curs_obert": "Q1",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "AS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/AS",
+    "nom": "Arquitectura del Software",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "ASW",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/ASW",
+    "nom": "Aplicacions i Serveis Web",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "DBD",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/DBD",
+    "nom": "Disseny de Bases de Dades",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "ER",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/ER",
+    "nom": "Enginyeria de Requisits",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "GPS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/GPS",
+    "nom": "Gestió de Projectes de Software",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PES",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PES",
+    "nom": "Projecte d'Enginyeria del Software",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CAP",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CAP",
+    "nom": "Conceptes Avançats de Programació",
+    "curs_obert": "Q1",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CBDE",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CBDE",
+    "nom": "Conceptes per a Bases de Dades Especialitzades",
+    "curs_obert": "Q1",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CSI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CSI",
+    "nom": "Conceptes de Sistemes d'Informació",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "ECSDI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/ECSDI",
+    "nom": "Enginyeria del Coneixement i Sistemes Distribuïts Intel·ligents",
+    "curs_obert": "Q2",
+    "idioma": "Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "SIM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/SIM",
+    "nom": "Simulació",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "SOAD",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/SOAD",
+    "nom": "Sistemes Operatius per a Aplicacions Distribuïdes",
+    "curs_obert": "Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "ADEI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/ADEI",
+    "nom": "Anàlisi de Dades i Explotació de la Informació",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "DSI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/DSI",
+    "nom": "Disseny de Sistemes d'Informació",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "ER",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/ER",
+    "nom": "Enginyeria de Requisits",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "NE",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/NE",
+    "nom": "Negoci Electrònic",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PSI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PSI",
+    "nom": "Projecte de Sistemes d'Informació",
+    "curs_obert": "Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "SIO",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/SIO",
+    "nom": "Sistemes d'Informació per a Les Organitzacions",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "ABD",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/ABD",
+    "nom": "Administració de Bases de Dades",
+    "curs_obert": "Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CAIM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CAIM",
+    "nom": "Cerca i Anàlisi d'Informació Massiva",
+    "curs_obert": "Q1",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "EDO",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/EDO",
+    "nom": "Estratègia Digital a Les Organitzacions",
+    "curs_obert": "Q1",
+    "idioma": "Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "IO",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/IO",
+    "nom": "Investigació Operativa",
+    "curs_obert": "Q1",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "MI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/MI",
+    "nom": "Màrqueting a Internet",
+    "curs_obert": "Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "VPE",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/VPE",
+    "nom": "Viabilitat de Projectes Empresarials",
+    "curs_obert": "Q1",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "ASO",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/ASO",
+    "nom": "Administració de Sistemes Operatius",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PI",
+    "nom": "Protocols d'Internet",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PTI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PTI",
+    "nom": "Projecte de Tecnologies de la Informació",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "SI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/SI",
+    "nom": "Seguretat Informàtica",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "SOA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/SOA",
+    "nom": "Sistemes Operatius Avançats",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "TXC",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/TXC",
+    "nom": "Tecnologies de Xarxes de Computadors",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "AD",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/AD",
+    "nom": "Aplicacions Distribuïdes",
+    "curs_obert": "Q1",
+    "idioma": "Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CASO",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CASO",
+    "nom": "Conceptes Avançats de Sistemes Operatius",
+    "curs_obert": "Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CPD",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CPD",
+    "nom": "Centres de Processament de Dades",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "IM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/IM",
+    "nom": "Internet Mòbil",
+    "curs_obert": "Q2",
+    "idioma": "Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "SDX",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/SDX",
+    "nom": "Sistemes Distribuïts en Xarxa",
+    "curs_obert": "Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "TCI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/TCI",
+    "nom": "Transmissió i Codificació de la Informació",
+    "curs_obert": "Q1",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "APC",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/APC",
+    "nom": "Arquitectura del PC"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "APSS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/APSS",
+    "nom": "Habilitats Acadèmiques i Professionals d'Expressió Oral en Anglès",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Anglès"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "ASDP",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/ASDP",
+    "nom": "Habilitats Acadèmiques Pel Desenvolupament de Projectes en Anglès",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Anglès"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "ASMI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/ASMI",
+    "nom": "Aspectes Socials i Mediambientals de la Informàtica",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "C",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/C",
+    "nom": "Criptografia",
+    "curs_obert": "Q1",
+    "idioma": "Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CCQ",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CCQ",
+    "nom": "Computació i Criptografia Quàntiques",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "CDI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CDI",
+    "nom": "Compressió de Dades i Imatges",
+    "curs_obert": "Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "DCS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/DCS",
+    "nom": "Disseny de Corbes i Superfícies",
+    "curs_obert": "Q2",
+    "idioma": "Anglès"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "EET",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/EET",
+    "nom": "Educació, Enginyeria i Tecnologia",
+    "curs_obert": "Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "FDM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/FDM",
+    "nom": "Física dels Dispositius de Memòria",
+    "curs_obert": "Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "FOMAR",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/FOMAR",
+    "nom": "Física Orientada a la Modelització i l'Animació Realista",
+    "curs_obert": "Q2",
+    "idioma": "Anglès"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "GCS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/GCS",
+    "nom": "Gestió de la Ciberseguretat",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Anglès"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "GEOC",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/GEOC",
+    "nom": "Geometria Computacional",
+    "curs_obert": "Q1",
+    "idioma": "Anglès"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "I2R3",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/I2R3",
+    "nom": "Introducció a la Recerca",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "I2R6",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/I2R6",
+    "nom": "Introducció a la Recerca",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "LDPE",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/LDPE",
+    "nom": "Lideratge i Desenvolupament Professional a l'Enginyeria"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "MD",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/MD",
+    "nom": "Mineria de Dades",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Anglès"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "PAE",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PAE",
+    "nom": "Projecte Aplicat d'Enginyeria",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "ROB",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/ROB",
+    "nom": "Robòtica",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "SLDS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/SLDS",
+    "nom": "Software Lliure i Desenvolupament Social",
+    "curs_obert": "Q1",
+    "idioma": "Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "TGA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/TGA",
+    "nom": "Targetes Gràfiques i Acceleradors",
+    "curs_obert": "Q1",
+    "idioma": "Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "VC",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/VC",
+    "nom": "Visió per Computador",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "VJ",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/VJ",
+    "nom": "Videojocs",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Català, Castellà"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "WSE",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/WSE",
+    "nom": "Habilitats d'Expressió Escrita en Anglès per a l'Enginyeria",
+    "curs_obert": "Q1, Q2",
+    "idioma": "Anglès"
+  },
+  {
+    "titulacio": "GEI",
+    "sigles": "ECE",
+    "nom": "Ètica a la Ciència i l'Enginyeria"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "AMMM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/AMMM-MIRI",
+    "nom": "Mètodes Algorísmics per a Models Matemàtics",
+    "curs_obert": "Q1, Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "CPDS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/CPDS-MIRI",
+    "nom": "Concurrència, Paral·lelisme i Sistemes Distribuïts",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SMDE",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SMDE-MIRI",
+    "nom": "Modelatge Estadístic i Disseny d'Experiments",
+    "curs_obert": "Q1, Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "TMIRI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/TMIRI-MIRI",
+    "nom": "Tècniques i Metodologia de la Innovació i la Recerca en Informàtica",
+    "curs_obert": "Q1, Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SIRI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SIRI-MIRI",
+    "nom": "Seminaris d'Innovació i Recerca en Informàtica",
+    "curs_obert": "Q1, Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "ADS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/ADS-MIRI",
+    "nom": "Estructures de Dades Avançades",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "CC",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/CC-MIRI",
+    "nom": "Complexitat Computacional",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "CPS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/CPS-MIRI",
+    "nom": "Resolució de Problemes Combinatoris",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "RA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/RA-MIRI",
+    "nom": "Algorismes Aleatoris",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "ADM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/ADM-MIRI",
+    "nom": "Algorísmia per a Mineria de Dades",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "AGT",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/AGT-MIRI",
+    "nom": "Teoria de Jocs Algorísmica",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "AVLSI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/AVLSI-MIRI",
+    "nom": "Algorismes per a VLSI",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "CSN",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/CSN-MIRI",
+    "nom": "Xarxes Socials i Complexes",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "A3DM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/A3DM-MIRI",
+    "nom": "Modelat Avançat en 3d",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "FRR",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/FRR-MIRI",
+    "nom": "Representació Realista d'Alta Velocitat",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "GTCG",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/GTCG-MIRI",
+    "nom": "Eines Geomètriques per a Gràfics per Computador",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "VAR",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/VAR-MIRI",
+    "nom": "Realitat Virtual i Augmentada",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "CA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/CA-MIRI",
+    "nom": "Animació per Computador",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "GPR",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/GPR-MIRI",
+    "nom": "Processat en Geometria",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SRGGE",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SRGGE-MIRI",
+    "nom": "Renderització Escalable en Gràfics i Videojocs",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SV",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SV-MIRI",
+    "nom": "Visualització Científica",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "CNANM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/CNANM-MIRI",
+    "nom": "Arquitectura de Xarxes de Computadors i Gestió de Xarxes",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SANS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SANS-MIRI",
+    "nom": "Anàlisi Estadística de Xarxes i Sistemes",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SNM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SNM-MIRI",
+    "nom": "Modelatge Estocàstic de Xarxes",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "TOML",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/TOML-MIRI",
+    "nom": "Temes Sobre Optimització i Aprenentatge Automàtic",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "CCBDA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/CCBDA-MIRI",
+    "nom": "Computació al Núvol i Anàlisi de Dades Massives",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "DS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/DS-MIRI",
+    "nom": "Sistemes Descentralitzats",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "FINE",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/FINE-MIRI",
+    "nom": "Xarxes d'Internet del Futur",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "IAS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/IAS-MIRI",
+    "nom": "Aplicacions i Seguretat en Internet",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "ADM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/ADM-MIRI",
+    "nom": "Algorísmia per a Mineria de Dades",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "AHLT",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-intelligencia-artificial/pla-destudis/assignatures/AHLT-MAI",
+    "nom": "Tecnologies Avançades del Llenguatge Humà",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "BDM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/BDM-MIRI",
+    "nom": "Administració de Dades Massives",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "BSG",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-ciencia-de-dades/pla-destudis/assignatures/BSG-MDS",
+    "nom": "Bioinformàtica i Genètica Estadística",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "IRRS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-ciencia-de-dades/pla-destudis/assignatures/IRRS-MDS",
+    "nom": "Recuperació de la Informació i Sistemes Recomanadors",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "VBP",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/VBP-MIRI",
+    "nom": "Viabilitat de Projectes Empresarials",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "MA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/MA-MIRI",
+    "nom": "Arquitectura de Multiprocessadors",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "OS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/OS-MIRI",
+    "nom": "Sistemes Operatius",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "PA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/PA-MIRI",
+    "nom": "Arquitectura del Processador",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "APA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/APA-MIRI",
+    "nom": "Arquitectura Avançada del Processador",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "CHPC",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/CHPC-MIRI",
+    "nom": "Compiladors per Computadors d'Altes Prestacions",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "PD",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/PD-MIRI",
+    "nom": "Disseny del Processador",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "PPTM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/PPTM-MIRI",
+    "nom": "Eines i Models de Programació Paral·lela",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "PV",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/PV-MIRI",
+    "nom": "Verificació de Processadors",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SA-MIRI",
+    "nom": "Arquitectura de Supercomputadors",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SCA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SCA-MIRI",
+    "nom": "Supercomputació per Aplicacions Exigents",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "BDM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/BDM-MIRI",
+    "nom": "Administració de Dades Massives",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "VBP",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/VBP-MIRI",
+    "nom": "Viabilitat de Projectes Empresarials",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "CV",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/assignatures/CV",
+    "nom": "Visió per Computador",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "I2P",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/I2P-MIRI",
+    "nom": "Projecte d'Innovació Interdisciplinari",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "I2RM3",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/assignatures/I2RM3",
+    "nom": "Introducció a la Recerca",
+    "curs_obert": "Q1, Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "I2RM6",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/assignatures/I2RM6",
+    "nom": "Introducció a la Recerca",
+    "curs_obert": "Q1, Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "IQL",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/assignatures/IQL",
+    "nom": "Introducció a la Lingüística Quantitativa",
+    "curs_obert": "Q2"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "MLOPS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-ciencia-de-dades/pla-destudis/assignatures/MLOPS-MDS",
+    "nom": "Sistemes d'Aprenentatge Automàtic en Producció",
+    "curs_obert": "Q1"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "ADSDB",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/ADSDB-MIRI",
+    "nom": "Algorismes, Estructures de Dades i Bases de Dades"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "AM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/AM-MIRI",
+    "nom": "Modelatge Avançat"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "ANLP",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/ANLP-MIRI",
+    "nom": "Processament Avançat del Llenguatge Natural"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "ASE",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/ASE-MIRI",
+    "nom": "Enginyeria del Software Avançada"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "ASM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/ASM-MIRI",
+    "nom": "Modelat Estadístic Avançat"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "BIP",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/BIP-MIRI",
+    "nom": "Projecte d'Intel·ligència Empresarial"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "BSG",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/BSG-MIRI",
+    "nom": "Bioinformàtica i Genètica Estadística"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "CLC",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/CLC-MIRI",
+    "nom": "Cloud Computing"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "CN",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/CN-MIRI",
+    "nom": "Xarxes de Computadors"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "DAKD",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/DAKD-MIRI",
+    "nom": "Anàlisi de Dades i Descobriment de Coneixement"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "DEWS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/DEWS-MIRI",
+    "nom": "Disseny i Avaluació de Sistemes Basats en la Web"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "DW",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/DW-MIRI",
+    "nom": "Data Warehousing"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "EA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/EA-MIRI",
+    "nom": "Elements d'Animació"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "EB",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/EB-MIRI",
+    "nom": "E-Business"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "GP",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/GP-MIRI",
+    "nom": "Processament Geomètric"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "INM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/INM-MIRI",
+    "nom": "Introducció al Modelatge de Xarxes"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "IR",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/IR-MIRI",
+    "nom": "Recuperació de la Informació"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "KMLMM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/KMLMM-MIRI",
+    "nom": "Aprenentatge Automàtic Basat en Kernel i Modelat Multivariant"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "MGTN",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/MGTN-MIRI",
+    "nom": "Mecanismes i Teoria de Jocs en Xarxes"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "ML",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/ML-MIRI",
+    "nom": "Aprenentatge Automàtic"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "MVA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/MVA-MIRI",
+    "nom": "Anàlisi Multivariant"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "NCD",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/NCD-MIRI",
+    "nom": "Disseny de Circuits Nanoelectrònics"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "OD",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/OD-MIRI",
+    "nom": "Open Data"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "OTDM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/OTDM-MIRI",
+    "nom": "Tècniques d'Optimització per a la Mineria de Dades"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "RES",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/RES-MIRI",
+    "nom": "Enginyeria de Requisits pels Serveis"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "RRMM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/RRMM-MIRI",
+    "nom": "Representació en Temps Real de Models Massius"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SEAIT",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SEAIT-MIRI",
+    "nom": "Aspectes Socials i Ambientals de Les Tecnologies de la Informació"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SIBIT",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SIBIT-MIRI",
+    "nom": "Innovació en Els Serveis Basada en Les Tecnologies de la Informació"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SM",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SM-MIRI",
+    "nom": "Gestió de Serveis"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SNLP",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SNLP-MIRI",
+    "nom": "Processament Estadístic del Llenguatge Natural"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SOA",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SOA-MIRI",
+    "nom": "Arquitectura Orientada als Serveis"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "SOBI",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/SOBI-MIRI",
+    "nom": "Bussiness Intelligence Orientada als Serveis"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "VV",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/VV-MIRI",
+    "nom": "Visualització del Volum"
+  },
+  {
+    "titulacio": "MIRI",
+    "sigles": "WS",
+    "url_fib": "https://www.fib.upc.edu/ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/pla-destudis/assignatures/WS-MIRI",
+    "nom": "Serveis Web"
+  }
+]
