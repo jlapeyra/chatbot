@@ -30,8 +30,8 @@ Pots trobar més informació sobre com es calcula l'ordre de matrícula a la pes
 
 * `nodes.py`: Defineix la graella de nodes (classificació, accions finals, etc.) i el flux de converses.
 * `estudiant.py`: Carrega i descriu el perfil de l'estudiant (grau, fase, assignatures matriculades, etc.).
-* `embed_assignatures.py`: Fa cerques semàntiques d'assignatures amb embeddings i FAISS.
-* `data_mining/assignatures_basic.py`: Raspallador HTML per obtenir assignatures i metadades bàsiques.
+* `embed_assignatures.py`: Fa cerques semàntiques d'assignatures amb embeddings i FAISS (falta integrar-lo amb `nodes.py`.
+* `data_mining/assignatures_basic.py`: Extreu la llista d'assignatures d'una titulació a partir de l'enllaç a la web de la FIB.
 * `data_mining/assignatures_detall.py`: Extreu informació detallada de cada assignatura a partir del seu enllaç.
 * `data/`: Conté fitxers `.json` i `.txt` amb dades prèviament extretes (com la matrícula o assignatures).
 
@@ -90,23 +90,11 @@ python nodes.py
 
 ## 🛠 Altres utilitats
 
-Per tornar a generar les dades d’assignatures:
 
-```bash
-python assignatures_basic.py
-python assignatures_detall.py
-```
+Cerca semàntica d’assignatures segons una descripció donada oer l'usuari. Programat a embed_assignatures.py, però falta integrar-ho al programa principal.
 
-Per provar cerca semàntica d’assignatures (exemple amb embeddings):
-
-```bash
-python embed_assignatures.py
-```
 
 ---
 
-## 📄 Llicència
-
-Projecte d'ús acadèmic. Pots reutilitzar-lo i adaptar-lo lliurement amb finalitats educatives.
 
 
